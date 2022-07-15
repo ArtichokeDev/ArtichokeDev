@@ -10,8 +10,8 @@
  
 >
   
- I am able to code using  `.C++`, `.C`, `.python` and `.js` <br>
- Currently I'm studying `.html`<b> <br>
+ I am able to code using  `.C++`, `.C`, `.python`, `.html`, `.css` and `.js` <br>
+ Currently I'm studying more `.js`<b> <br>
  <br>
 🧠 Fun fact: I'm also interested about developing videogames!<br> 
 <br>
